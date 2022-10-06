@@ -1,8 +1,5 @@
-Créez une nouvelle API en utilisant Symfony (ou re-utilisez celle créée avec les chapitres 1 et 2).
-Cette API devra posséder au moins une ressource Article, avec un id, un titre et un contenu.
-Des points d'API devront être implémentés afin de pouvoir créer, modifier, supprimer et afficher
-un ou plusieurs articles à la demande d'un client.
+En utilisant les informations et exemples présentés dans les deux sections,
+sécurisez votre API (utilisant API Platform) et votre documentation d'API grâce au mécanisme
+de JWT et au bundle Lexic Authentication JWT.
 
-En utilisant les informations et exemples de code présentés, sécurisez ensuite votre API en utilisant
-le mécanisme de JWT via le bundle Lexic Authentication JWT. Vérifier enfin que votre API est correctement
-sécurisée en utilisant Postman.
+Testez ensuite votre authentification et sécurité en utilisant Postman et la documentation d'API.
